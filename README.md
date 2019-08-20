@@ -31,6 +31,7 @@ Before anything else, OWASP - https://www.owasp.org/index.php/Main_Page </br>
 *  Repokid Least Privilege: https://github.com/Netflix/repokid</br>
 *  Wazuh CloudTrail module: https://documentation.wazuh.com/current/amazon/index.html</br>
 *  Detect Credential Compromise https://github.com/jchrisfarris/detect-credential-compromise</br>
+*  Netflix Security Monket https://github.com/Netflix/security_monkey </br>
    
 <h3> Google Cloud </h3>
  * Google Security Whitepaper - https://cloud.google.com/security/overview/whitepaper </br>
