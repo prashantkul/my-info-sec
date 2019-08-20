@@ -9,16 +9,19 @@ Before anything else, OWASP - https://www.owasp.org/index.php/Main_Page </br>
 * NIST Digital Identity Guidelines https://csrc.nist.gov/publications/detail/sp/800-63/3/final </br>
 * NIST Container Security - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf </br>
 
-<h3> AWS </h3>
-
-
  <h2> Cloud Security </h2> 
- Docker Bench - automate hundreds of security checks in Docker - https://github.com/docker/docker-bench-security </br>
-
- * AWS Security Blog - https://aws.amazon.com/blogs/security/tag/whitepaper/ </br>
- * AWS Well Architected Security Labs - https://wellarchitectedlabs.com/Security/README.html </br>
- * AWS SDK Samples - https://github.com/awsdocs/aws-doc-sdk-examples </br>
- * AWS Security Whitepaper - https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf </br>
+ 
+ <h3> Containers and Kubernetes </h3>
+ * CIS Benchmark for Container Security https://www.cisecurity.org/benchmark/docker/
+ * Docker Bench - automate hundreds of security checks in Docker  https://github.com/docker/docker-bench-security </br>
+ * Kubernetes Security cheat sheet https://github.com/dennyzhang/cheatsheet.dennyzhang.com/blob/master/cheatsheet-k8s-security-A4/cheatsheet-k8s-security-A4.pdf </br>
+ * Kubernetes command cheat sheet https://linuxacademy.com/blog/containers/kubernetes-cheat-sheet/ </br>
+ 
+ <h3> AWS </h3> </br>
+ * AWS Security Blog  https://aws.amazon.com/blogs/security/tag/whitepaper/ </br>
+ * AWS Well Architected Security Labs  https://wellarchitectedlabs.com/Security/README.html </br>
+ * AWS SDK Samples  https://github.com/awsdocs/aws-doc-sdk-examples </br>
+ * AWS Security Whitepaper https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf </br>
  
  <h3> AWS Security Auditing </h3>
 *  hammer https://github.com/dowjones/hammer </br>
