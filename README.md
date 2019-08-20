@@ -19,6 +19,18 @@ Before anything else, OWASP - https://www.owasp.org/index.php/Main_Page </br>
  * AWS Well Architected Security Labs - https://wellarchitectedlabs.com/Security/README.html </br>
  * AWS SDK Samples - https://github.com/awsdocs/aws-doc-sdk-examples </br>
  * AWS Security Whitepaper - https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf </br>
+ 
+ <h3> AWS Security Auditing </h3>
+* hammer https://github.com/dowjones/hammer
+* PacBot https://github.com/tmobile/pacbot
+* Security Monkey: https://github.com/Netflix/security_monkey
+* Krampus (as Security Monkey complement) https://github.com/sendgrid/krampus
+* Cloud Inquisitor: https://github.com/RiotGames/cloud-inquisitor
+* CloudCustodian: https://github.com/capitalone/cloud-custodian
+* Disable keys after X days: https://github.com/te-papa/aws-key-disabler
+* Repokid Least Privilege: https://github.com/Netflix/repokid
+* Wazuh CloudTrail module: https://documentation.wazuh.com/current/amazon/index.html
+* Detect Credential Compromise https://github.com/jchrisfarris/detect-credential-compromise
    
 <h3> Google Cloud </h3>
  * Google Security Whitepaper - https://cloud.google.com/security/overview/whitepaper </br>
@@ -26,13 +38,14 @@ Before anything else, OWASP - https://www.owasp.org/index.php/Main_Page </br>
  * Coursera course on GCP security (light) - https://www.coursera.org/specializations/security-google-cloud-platform </br>
 
 <h2> Identity Access Management </h2>
-  Okta Developer Portal https://developer.okta.com/docs/ </br>
-  Okta Product Roadmap https://www.okta.com/corporate-blog/tag/product-roadmap/ </br>
+ * Okta Developer Portal https://developer.okta.com/docs/ </br>
+ * Okta Product Roadmap https://www.okta.com/corporate-blog/tag/product-roadmap/ </br>
 
-Training:
+<h2> Training </h2>
 
 * Flaws http://flaws.cloud/ </br>
 * Flaws2 http://flaws2.cloud/
 * Cloudgoat https://github.com/RhinoSecurityLabs/cloudgoat
+
 
 
