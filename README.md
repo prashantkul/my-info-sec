@@ -21,16 +21,16 @@ Before anything else, OWASP - https://www.owasp.org/index.php/Main_Page </br>
  * AWS Security Whitepaper - https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf </br>
  
  <h3> AWS Security Auditing </h3>
-*  hammer https://github.com/dowjones/hammer </b>
-*  PacBot https://github.com/tmobile/pacbot </b>
-*  Security Monkey: https://github.com/Netflix/security_monkey</b>
-*  Krampus (as Security Monkey complement) https://github.com/sendgrid/krampus</b>
-*  Cloud Inquisitor: https://github.com/RiotGames/cloud-inquisitor</b>
-*  CloudCustodian: https://github.com/capitalone/cloud-custodian</b>
-*  Disable keys after X days: https://github.com/te-papa/aws-key-disabler</b>
-*  Repokid Least Privilege: https://github.com/Netflix/repokid</b>
-*  Wazuh CloudTrail module: https://documentation.wazuh.com/current/amazon/index.html</b>
-*  Detect Credential Compromise https://github.com/jchrisfarris/detect-credential-compromise</b>
+*  hammer https://github.com/dowjones/hammer </br>
+*  PacBot https://github.com/tmobile/pacbot </br>
+*  Security Monkey: https://github.com/Netflix/security_monkey</br>
+*  Krampus (as Security Monkey complement) https://github.com/sendgrid/krampus</br>
+*  Cloud Inquisitor: https://github.com/RiotGames/cloud-inquisitor</br>
+*  CloudCustodian: https://github.com/capitalone/cloud-custodian</br>
+*  Disable keys after X days: https://github.com/te-papa/aws-key-disabler</br>
+*  Repokid Least Privilege: https://github.com/Netflix/repokid</br>
+*  Wazuh CloudTrail module: https://documentation.wazuh.com/current/amazon/index.html</br>
+*  Detect Credential Compromise https://github.com/jchrisfarris/detect-credential-compromise</br>
    
 <h3> Google Cloud </h3>
  * Google Security Whitepaper - https://cloud.google.com/security/overview/whitepaper </br>
