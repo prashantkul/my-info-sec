@@ -53,61 +53,61 @@ Before anything else, OWASP - https://www.owasp.org/index.php/Main_Page </br>
 * Cloudgoat https://github.com/RhinoSecurityLabs/cloudgoat
 
 
-https://ohshitgit.com/
-https://www.youtube.com/watch?v=LdOe18KhtT4
-https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises
-https://www.amazon.com/Epic-Failures-DevSecOps-Mark-Miller/dp/1728806992
-https://www.sonatype.com/resources/white-paper-epic-failures-in-devsecops-volume-2
-http://web.mit.edu/smadnick/www/wp/2020-16.pdf
-https://aws.amazon.com/image-builder/
-https://github.com/boyter/scc
-https://github.com/Checkmarx/kics
-https://semgrep.dev/
-https://regex101.com/
-https://github.com/bridgecrewio/yor
-https://www.youtube.com/watch?v=8armE3Wz0jk
-https://dev-sec.io/
-https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF
-https://docs.docker.com/engine/security/rootless/
-https://twitter.com/raesene/status/1425050303183921152
-https://cloud.google.com/container-analysis/docs/container-scanning-overview#continuous_analysis
-https://docs.microsoft.com/en-us/azure/security-center/defender-for-container-registries-cicd
-https://www.arachni-scanner.com/blog/arachni-is-no-longer-maintained/
-https://www.arachni-scanner.com/blog/experience-change-new-scanner-trials-are-coming/
-https://github.com/OWASP/glue
-https://huskyci.opensource.globo.com/
-https://www.shiftleft.io/
-https://www.softwaresecured.com/
-https://sans-live-training.slack.com/archives/G01LL4W98R5/p1628607601103600
-https://docs.microsoft.com/en-us/azure/security-center/defender-for-container-registries-introduction
-https://regexcrossword.com/
-https://summitroute.com/blog/2021/08/03/S3_backups_and_other_strategies_for_ensuring_data_durability_through_ransomware_attacks/
-https://github.com/kelseyhightower/kubernetes-the-hard-way
-https://github.com/magnologan/awesome-k8s-security
-https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster
-https://www.qwiklabs.com/focuses/5158?parent=catalog
-https://madhuakula.com/kubernetes-goat/
-https://sans-live-training.slack.com/archives/C029J85KWFR/p1628696600011100
-https://github.com/monitoringsucks
-http://www.appsensor.org/
-https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
-https://cybermap.kaspersky.com/
-https://www.twitch.tv/hackingesports_eng
-https://github.com/ossf/allstar
-https://malicious.life/episode/episode-85/
-https://pragmaticwebsecurity.com/cheatsheets.html
-https://github.com/pumasecurity/serverless-prey
-https://www.trendmicro.com/vinfo/ph/security/news/virtualization-and-cloud/shedding-light-on-security-considerations-in-serverless-cloud-architectures
-https://owasp.org/www-project-serverless-top-10/
-https://github.com/OWASP/Serverless-Goat
-https://github.com/OWASP/DVSA
-https://docs.aws.amazon.com/vpc/latest/mirroring/tm-example-open-source.html
-https://www.giac.org/certification/cloud-security-automation-gcsa
-https://tisiphone.net/2015/08/18/giac-testing/
-https://fwdcloudsec.org/speakers.html
-https://www.tenchisecurity.com/blog/thefaultinourstars
-https://darknetdiaries.com/episode/61/
-https://cloud.google.com/armor/docs/security-policy-overview#json-parsing
-https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
-https://www.microsoft.com/en-us/research/project/project-springfield/
+https://ohshitgit.com/ </br>
+https://www.youtube.com/watch?v=LdOe18KhtT4 </br>
+https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises </br>
+https://www.amazon.com/Epic-Failures-DevSecOps-Mark-Miller/dp/1728806992 </br>
+https://www.sonatype.com/resources/white-paper-epic-failures-in-devsecops-volume-2 </br>
+http://web.mit.edu/smadnick/www/wp/2020-16.pdf </br>
+https://aws.amazon.com/image-builder/ </br>
+https://github.com/boyter/scc </br>
+https://github.com/Checkmarx/kics </br>
+https://semgrep.dev/ </br>
+https://regex101.com/ </br>
+https://github.com/bridgecrewio/yor </br>
+https://www.youtube.com/watch?v=8armE3Wz0jk </br>
+https://dev-sec.io/ </br>
+https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF </br>
+https://docs.docker.com/engine/security/rootless/ </br>
+https://twitter.com/raesene/status/1425050303183921152 </br>
+https://cloud.google.com/container-analysis/docs/container-scanning-overview#continuous_analysis </br>
+https://docs.microsoft.com/en-us/azure/security-center/defender-for-container-registries-cicd </br>
+https://www.arachni-scanner.com/blog/arachni-is-no-longer-maintained/ </br>
+https://www.arachni-scanner.com/blog/experience-change-new-scanner-trials-are-coming/ </br>
+https://github.com/OWASP/glue </br>
+https://huskyci.opensource.globo.com/ </br>
+https://www.shiftleft.io/ </br>
+https://www.softwaresecured.com/ </br>
+https://sans-live-training.slack.com/archives/G01LL4W98R5/p1628607601103600 </br>
+https://docs.microsoft.com/en-us/azure/security-center/defender-for-container-registries-introduction </br>
+https://regexcrossword.com/ </br>
+https://summitroute.com/blog/2021/08/03/S3_backups_and_other_strategies_for_ensuring_data_durability_through_ransomware_attacks/ </br>
+https://github.com/kelseyhightower/kubernetes-the-hard-way </br>
+https://github.com/magnologan/awesome-k8s-security </br>
+https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster </br>
+https://www.qwiklabs.com/focuses/5158?parent=catalog </br>
+https://madhuakula.com/kubernetes-goat/ </br>
+https://sans-live-training.slack.com/archives/C029J85KWFR/p1628696600011100 </br>
+https://github.com/monitoringsucks </br>
+http://www.appsensor.org/ </br>
+https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html </br>
+https://cybermap.kaspersky.com/ </br>
+https://www.twitch.tv/hackingesports_eng </br>
+https://github.com/ossf/allstar </br>
+https://malicious.life/episode/episode-85/ </br>
+https://pragmaticwebsecurity.com/cheatsheets.html </br>
+https://github.com/pumasecurity/serverless-prey </br>
+https://www.trendmicro.com/vinfo/ph/security/news/virtualization-and-cloud/shedding-light-on-security-considerations-in-serverless-cloud-architectures </br>
+https://owasp.org/www-project-serverless-top-10/ </br>
+https://github.com/OWASP/Serverless-Goat </br>
+https://github.com/OWASP/DVSA </br>
+https://docs.aws.amazon.com/vpc/latest/mirroring/tm-example-open-source.html </br>
+https://www.giac.org/certification/cloud-security-automation-gcsa </br>
+https://tisiphone.net/2015/08/18/giac-testing/ </br>
+https://fwdcloudsec.org/speakers.html </br>
+https://www.tenchisecurity.com/blog/thefaultinourstars </br>
+https://darknetdiaries.com/episode/61/ </br>
+https://cloud.google.com/armor/docs/security-policy-overview#json-parsing </br>
+https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning </br>
+https://www.microsoft.com/en-us/research/project/project-springfield/ </br>
 https://github.com/microsoft/onefuzz
